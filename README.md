@@ -1,6 +1,6 @@
 # fire-detection
 
-Public repository for material used in the thesis _Fire Detection using RF Signals_. A copy of the original thesis can be found on UWSpace (**TODO: Add link**).
+Public repository for material used in the thesis _Fire Detection using RF Signals_. A copy of the original thesis can be found on [UWSpace](https://uwspace.uwaterloo.ca/).
 
 ## Experiment Codebase and Data
 
